@@ -1,0 +1,163 @@
+@import "./base/globals";
+@import "./base/variables";
+@import "./base/mixins";
+// HEADER-TOP
+.header-top {
+    background: $primary_color;
+    color: white;
+    padding: 10px 20px;
+    font-size: 13px;
+    ul {
+        li {
+            margin-right: 10px;
+            i {
+                margin-right: 6px;
+            }
+        }
+    }
+}
+
+// HEADER-BOTTOM
+.navbar-collapse {
+    justify-content: center;
+    text-transform: uppercase;
+}
+
+.hb_ctc {
+    a {
+        display: inherit;
+        font-size: 30px;
+        color: $primary_color;
+    }
+}
+
+.hbc-right {
+    span {
+        display: block;
+    }
+    .upper_hbc {
+        font-size: 12px;
+        margin-bottom: 2px;
+    }
+    .lower_hbc {
+        font-size: 16px;
+    }
+}
+
+// MAIN BANNER
+.mb-image {
+    img {
+        width: 100%;
+        height: 80vh;
+    }
+}
+
+.mb-content {
+    background: $primary_color;
+    color: white;
+    padding: 100px;
+}
+
+.background {
+    background: $primary_color;
+    span {
+        color: white;
+    }
+}
+
+.mbc-title {
+    h2 {
+        margin-bottom: 36px;
+        font-size: 60px;
+        text-transform: uppercase;
+        font-weight: 700;
+    }
+}
+
+.mbc-text {
+    margin-bottom: 100px;
+    font-size: 15px;
+}
+
+.cta {
+    a {
+        border: 2px solid white;
+        padding: 10px 20px;
+        color: white;
+        margin-right: 20px;
+        i {
+            margin-right: 10px;
+            font-size: 18px;
+        }
+    }
+}
+
+.line_wrapper {
+    border-left: 10px solid white;
+    padding: 0 17px;
+}
+
+.ma-image {
+    img {
+        width: 100%;
+        height: 700px;
+        object-fit: cover;
+    }
+}
+
+.ma-content {
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-bottom: 60px;
+}
+
+.ma-text {
+    margin-top: 20px;
+    margin-bottom: 50px;
+}
+
+.design_image {
+    img {
+        width: 349px;
+        height: 255px;
+        object-fit: cover;
+    }
+}
+
+.design_image_wrapper {
+    display: flex;
+}
+
+.max_height {
+    max-height: 700px;
+    min-height: 700px;
+    overflow: hidden;
+}
+
+.ncs-single {
+    margin-bottom: 30px;
+}
+
+.ncs-single {
+    img {
+        position: relative;
+        width: 100%;
+        height: 275px;
+        object-fit: cover;
+         ::before {
+            content: "";
+            position: absolute;
+            left: 0;
+            top: 0;
+            width: 100%;
+            height: 0;
+            background: #000;
+        }
+    }
+}
+
+.nav-tab {
+    nav {
+        margin-bottom: 30px;
+    }
+}
