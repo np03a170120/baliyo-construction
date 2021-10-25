@@ -180,31 +180,61 @@
                         <div class="row">
                             <div class="col-md-4">
                                 <div class="ncs-single">
+                                    <div class="ncs-text">
+                                        <a href="#">
+                                            <h4>New supreme court Building</h4>
+                                        </a>
+                                    </div>
                                     <img src="./images/dummy_0.png" alt="">
                                 </div>
                             </div>
                             <div class="col-md-4">
                                 <div class="ncs-single">
+                                    <div class="ncs-text">
+                                        <a href="#">
+                                            <h4>New supreme court Building</h4>
+                                        </a>
+                                    </div>
                                     <img src="./images/dummny.png" alt="">
                                 </div>
                             </div>
                             <div class="col-md-4">
                                 <div class="ncs-single">
+                                    <div class="ncs-text">
+                                        <a href="#">
+                                            <h4>New supreme court Building</h4>
+                                        </a>
+                                    </div>
                                     <img src="./images/banner-image.jpg" alt="">
                                 </div>
                             </div>
                             <div class="col-md-4">
                                 <div class="ncs-single">
+                                    <div class="ncs-text">
+                                        <a href="#">
+                                            <h4>New supreme court Building</h4>
+                                        </a>
+                                    </div>
                                     <img src="./images/dummy_0.png" alt="">
                                 </div>
                             </div>
                             <div class="col-md-4">
                                 <div class="ncs-single">
+                                    <div class="ncs-text">
+                                        <a href="#">
+                                            <h4>New supreme court Building</h4>
+                                        </a>
+                                    </div>
                                     <img src="./images/dummny.png" alt="">
                                 </div>
                             </div>
                             <div class="col-md-4">
                                 <div class="ncs-single">
+                                    <div class="ncs-text">
+                                        <a href="#">
+                                            <h4>New supreme court Building</h4>
+                                        </a>
+                                    </div>
                                     <img src="./images/banner-image.jpg" alt="">
                                 </div>
                             </div>
@@ -216,16 +246,31 @@
                         <div class="row">
                             <div class="col-md-4">
                                 <div class="ncs-single">
+                                    <div class="ncs-text">
+                                        <a href="#">
+                                            <h4>New supreme court Building</h4>
+                                        </a>
+                                    </div>
                                     <img src="./images/dummy_0.png" alt="">
                                 </div>
                             </div>
                             <div class="col-md-4">
                                 <div class="ncs-single">
+                                    <div class="ncs-text">
+                                        <a href="#">
+                                            <h4>New supreme court Building</h4>
+                                        </a>
+                                    </div>
                                     <img src="./images/dummny.png" alt="">
                                 </div>
                             </div>
                             <div class="col-md-4">
                                 <div class="ncs-single">
+                                    <div class="ncs-text">
+                                        <a href="#">
+                                            <h4>New supreme court Building</h4>
+                                        </a>
+                                    </div>
                                     <img src="./images/banner-image.jpg" alt="">
                                 </div>
                             </div>
@@ -237,21 +282,343 @@
                         <div class="row">
                             <div class="col-md-4">
                                 <div class="ncs-single">
+                                    <div class="ncs-text">
+                                        <a href="#">
+                                            <h4>New supreme court Building</h4>
+                                        </a>
+                                    </div>
                                     <img src="./images/dummy_0.png" alt="">
                                 </div>
                             </div>
                             <div class="col-md-4">
                                 <div class="ncs-single">
+                                    <div class="ncs-text">
+                                        <a href="#">
+                                            <h4>New supreme court Building</h4>
+                                        </a>
+                                    </div>
                                     <img src="./images/dummny.png" alt="">
                                 </div>
                             </div>
                             <div class="col-md-4">
                                 <div class="ncs-single">
+                                    <div class="ncs-text">
+                                        <a href="#">
+                                            <h4>New supreme court Building</h4>
+                                        </a>
+                                    </div>
                                     <img src="./images/banner-image.jpg" alt="">
                                 </div>
                             </div>
                         </div>
                     </div>
+                </div>
+            </div>
+            <div class="learn_more">
+                <a href="#">Learn More</a>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- VIDEO -->
+<section class="main-video">
+    <div class="container-fluid no-pad">
+        <div class="video_thumbnail">
+            <video src="./images/construction.mp4" autoplay muted loop></video>
+            <div class="vt_play_button">
+                <a href="#">
+                    <span><i class="fas fa-play"></i></span>
+                </a>
+            </div>
+        </div>
+    </div>
+</section>
+
+
+<!-- Projects -->
+<section class="main-projects">
+    <div class="container">
+        <div class="sec-title">
+            <img src="./images/Line,png.png" alt=""><span>About Us</span>
+            <h2>Our Products</h2>
+        </div>
+        <div class="row">
+            <div class="col-md-4">
+                <nav>
+                    <div class="nav nav-tabs" id="nav-tab" role="tablist">
+                        <a class="nav-item nav-link" id="nav-home-tab" data-toggle="tab" href="#nav-home" role="tab"
+                            aria-controls="nav-home" aria-selected="true">Irrigation</a>
+                        <a class="nav-item nav-link" id="nav-profile-tab" data-toggle="tab" href="#nav-profile"
+                            role="tab" aria-controls="nav-profile" aria-selected="false">Road</a>
+                        <a class="nav-item nav-link" id="nav-contact-tab" data-toggle="tab" href="#nav-contact"
+                            role="tab" aria-controls="nav-contact" aria-selected="false">Building</a>
+                        <a class="nav-item nav-link active" id="nav-home-tab" data-toggle="tab" href="#nav-home"
+                            role="tab" aria-controls="nav-home" aria-selected="true">Irrigation</a>
+                        <a class="nav-item nav-link" id="nav-profile-tab" data-toggle="tab" href="#nav-profile"
+                            role="tab" aria-controls="nav-profile" aria-selected="false">Road</a>
+                        <a class="nav-item nav-link" id="nav-contact-tab" data-toggle="tab" href="#nav-contact"
+                            role="tab" aria-controls="nav-contact" aria-selected="false">Building</a>
+                    </div>
+                </nav>
+
+            </div>
+            <div class="col-md-8">
+                <div class="tab-content" id="nav-tabContent">
+                    <div class="tab-pane fade show active" id="nav-home" role="tabpanel" aria-labelledby="nav-home-tab">
+                        <div class="nav_content_single">
+                            <div class="row">
+                                <div class="col-md-4">
+                                    <div class="ncs-single">
+                                        <div class="ncs-text">
+                                            <a href="#">
+                                                <h4>New supreme court Building</h4>
+                                            </a>
+                                        </div>
+                                        <img src="./images/dummy_0.png" alt="">
+                                    </div>
+                                </div>
+                                <div class="col-md-4">
+                                    <div class="ncs-single">
+                                        <div class="ncs-text">
+                                            <a href="#">
+                                                <h4>New supreme court Building</h4>
+                                            </a>
+                                        </div>
+                                        <img src="./images/dummny.png" alt="">
+                                    </div>
+                                </div>
+                                <div class="col-md-4">
+                                    <div class="ncs-single">
+                                        <div class="ncs-text">
+                                            <a href="#">
+                                                <h4>New supreme court Building</h4>
+                                            </a>
+                                        </div>
+                                        <img src="./images/banner-image.jpg" alt="">
+                                    </div>
+                                </div>
+                                <div class="col-md-4">
+                                    <div class="ncs-single">
+                                        <div class="ncs-text">
+                                            <a href="#">
+                                                <h4>New supreme court Building</h4>
+                                            </a>
+                                        </div>
+                                        <img src="./images/dummy_0.png" alt="">
+                                    </div>
+                                </div>
+                                <div class="col-md-4">
+                                    <div class="ncs-single">
+                                        <div class="ncs-text">
+                                            <a href="#">
+                                                <h4>New supreme court Building</h4>
+                                            </a>
+                                        </div>
+                                        <img src="./images/dummny.png" alt="">
+                                    </div>
+                                </div>
+                                <div class="col-md-4">
+                                    <div class="ncs-single">
+                                        <div class="ncs-text">
+                                            <a href="#">
+                                                <h4>New supreme court Building</h4>
+                                            </a>
+                                        </div>
+                                        <img src="./images/banner-image.jpg" alt="">
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="tab-pane fade" id="nav-profile" role="tabpanel" aria-labelledby="nav-profile-tab">
+                        <div class="nav_content_single">
+                            <div class="row">
+                                <div class="col-md-4">
+                                    <div class="ncs-single">
+                                        <div class="ncs-text">
+                                            <a href="#">
+                                                <h4>New supreme court Building</h4>
+                                            </a>
+                                        </div>
+                                        <img src="./images/dummy_0.png" alt="">
+                                    </div>
+                                </div>
+                                <div class="col-md-4">
+                                    <div class="ncs-single">
+                                        <div class="ncs-text">
+                                            <a href="#">
+                                                <h4>New supreme court Building</h4>
+                                            </a>
+                                        </div>
+                                        <img src="./images/dummny.png" alt="">
+                                    </div>
+                                </div>
+                                <div class="col-md-4">
+                                    <div class="ncs-single">
+                                        <div class="ncs-text">
+                                            <a href="#">
+                                                <h4>New supreme court Building</h4>
+                                            </a>
+                                        </div>
+                                        <img src="./images/banner-image.jpg" alt="">
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="tab-pane fade" id="nav-contact" role="tabpanel" aria-labelledby="nav-contact-tab">
+                        <div class="nav_content_single">
+                            <div class="row">
+                                <div class="col-md-4">
+                                    <div class="ncs-single">
+                                        <div class="ncs-text">
+                                            <a href="#">
+                                                <h4>New supreme court Building</h4>
+                                            </a>
+                                        </div>
+                                        <img src="./images/dummy_0.png" alt="">
+                                    </div>
+                                </div>
+                                <div class="col-md-4">
+                                    <div class="ncs-single">
+                                        <div class="ncs-text">
+                                            <a href="#">
+                                                <h4>New supreme court Building</h4>
+                                            </a>
+                                        </div>
+                                        <img src="./images/dummny.png" alt="">
+                                    </div>
+                                </div>
+                                <div class="col-md-4">
+                                    <div class="ncs-single">
+                                        <div class="ncs-text">
+                                            <a href="#">
+                                                <h4>New supreme court Building</h4>
+                                            </a>
+                                        </div>
+                                        <img src="./images/banner-image.jpg" alt="">
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </div>
+</section>
+
+<!-- FAQs -->
+<section class="main-faqs">
+    <div class="container">
+        <div class="sec-title">
+            <img src="./images/Line,png.png" alt=""><span>About Us</span>
+            <h2>FAQs</h2>
+        </div>
+        <div class="row">
+            <div class="col-md-5">
+                <div class="accordion_faqs">
+                    <div class="accordion" id="accordionExample">
+                        <div class="card">
+                            <div class="card-header" id="headingOne">
+                                <h2 class="mb-0">
+                                    <button class="btn btn-link btn-block text-left" type="button"
+                                        data-toggle="collapse" data-target="#collapseOne" aria-expanded="true"
+                                        aria-controls="collapseOne">
+                                        How we start projects ?
+                                    </button>
+                                </h2>
+                            </div>
+
+                            <div id="collapseOne" class="collapse show" aria-labelledby="headingOne"
+                                data-parent="#accordionExample">
+                                <div class="card-body">
+                                    Some placeholder content for the first accordion panel. This panel is shown by
+                                    default, thanks to the <code>.show</code> class.
+                                </div>
+                            </div>
+                        </div>
+                        <div class="card">
+                            <div class="card-header" id="headingTwo">
+                                <h2 class="mb-0">
+                                    <button class="btn btn-link btn-block text-left collapsed" type="button"
+                                        data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false"
+                                        aria-controls="collapseTwo">
+                                        How you can contact us?
+                                    </button>
+                                </h2>
+                            </div>
+                            <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo"
+                                data-parent="#accordionExample">
+                                <div class="card-body">
+                                    Some placeholder content for the second accordion panel. This panel is hidden by
+                                    default.
+                                </div>
+                            </div>
+                        </div>
+                        <div class="card">
+                            <div class="card-header" id="headingThree">
+                                <h2 class="mb-0">
+                                    <button class="btn btn-link btn-block text-left collapsed" type="button"
+                                        data-toggle="collapse" data-target="#collapseThree" aria-expanded="false"
+                                        aria-controls="collapseThree">
+                                        What technology do we have?
+                                    </button>
+                                </h2>
+                            </div>
+                            <div id="collapseThree" class="collapse" aria-labelledby="headingThree"
+                                data-parent="#accordionExample">
+                                <div class="card-body">
+                                    And lastly, the placeholder content for the third and final accordion panel. This
+                                    panel is hidden by default.
+                                </div>
+                            </div>
+                        </div>
+                        <div class="card">
+                            <div class="card-header" id="headingTwo">
+                                <h2 class="mb-0">
+                                    <button class="btn btn-link btn-block text-left collapsed" type="button"
+                                        data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false"
+                                        aria-controls="collapseTwo">
+                                        How you can contact us?
+                                    </button>
+                                </h2>
+                            </div>
+                            <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo"
+                                data-parent="#accordionExample">
+                                <div class="card-body">
+                                    Some placeholder content for the second accordion panel. This panel is hidden by
+                                    default.
+                                </div>
+                            </div>
+                        </div>
+                        <div class="card">
+                            <div class="card-header" id="headingThree">
+                                <h2 class="mb-0">
+                                    <button class="btn btn-link btn-block text-left collapsed" type="button"
+                                        data-toggle="collapse" data-target="#collapseThree" aria-expanded="false"
+                                        aria-controls="collapseThree">
+                                        What technology do we have?
+                                    </button>
+                                </h2>
+                            </div>
+                            <div id="collapseThree" class="collapse" aria-labelledby="headingThree"
+                                data-parent="#accordionExample">
+                                <div class="card-body">
+                                    And lastly, the placeholder content for the third and final accordion panel. This
+                                    panel is hidden by default.
+                                </div>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-7">
+                <div class="design_image_nxt">
+                    <img src="./images/banner-image.jpg" alt="">
                 </div>
             </div>
         </div>
