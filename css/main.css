@@ -627,6 +627,7 @@ section.main-projects {
 .breadcrumb {
   background-color: white;
   margin: 20px 0;
+  padding: 0.75rem 13.5rem;
 }
 
 .breadcrumb .breadcrumb-item a {
@@ -638,5 +639,74 @@ section.main-projects {
   width: 350px;
   -o-object-fit: cover;
      object-fit: cover;
+}
+
+.sec-title_small {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  margin: 30px 0;
+}
+
+.sec-title_small h2 {
+  font-size: 28px;
+  color: #88121e;
+  margin-left: 20px;
+  font-weight: 300;
+}
+
+.sec-title_small img {
+  height: 50px;
+  width: 50px;
+  -o-object-fit: cover;
+     object-fit: cover;
+}
+
+.opening_card {
+  margin: 40px 0;
+}
+
+.oc-title {
+  margin-bottom: 20px;
+}
+
+.oc-title h3 {
+  margin-bottom: 30px;
+}
+
+.oc-title span {
+  margin: 10px 0;
+  background-color: #88121e;
+  color: whitesmoke;
+  padding: 8px;
+  font-size: 10px;
+}
+
+.ocs-list {
+  margin: 20px 0;
+}
+
+.ocs-list li {
+  margin-bottom: 10px;
+  font-size: 14px;
+}
+
+.ocs-list li::before {
+  content: "*";
+  margin-right: 10px;
+}
+
+.opening_card {
+  padding: 50px;
+  background: white;
+  -webkit-box-shadow: 4px 5px 12px 0px #dfdddd;
+          box-shadow: 4px 5px 12px 0px #dfdddd;
+}
+
+.opening_card .learn_more {
+  margin: 40px 0;
 }
 /*# sourceMappingURL=main.css.map */

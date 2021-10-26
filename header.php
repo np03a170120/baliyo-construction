@@ -64,19 +64,20 @@
                                 <div class="collapse navbar-collapse" id="navbarNavDropdown">
                                     <ul class="navbar-nav">
                                         <li class="nav-item active">
-                                            <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
+                                            <a class="nav-link" href="index.php">Home <span
+                                                    class="sr-only">(current)</span></a>
                                         </li>
                                         <li class="nav-item">
                                             <a class="nav-link" href="about.php">About</a>
                                         </li>
                                         <li class="nav-item">
-                                            <a class="nav-link" href="#">Services</a>
+                                            <a class="nav-link" href="service.php">Services</a>
                                         </li>
                                         <li class="nav-item">
-                                            <a class="nav-link" href="#">Career</a>
+                                            <a class="nav-link" href="career.php">Career</a>
                                         </li>
                                         <li class="nav-item">
-                                            <a class="nav-link" href="#">Project</a>
+                                            <a class="nav-link" href="project.php">Project</a>
                                         </li>
                                         <li class="nav-item">
                                             <a class="nav-link" href="#">contact</a>
