@@ -440,3 +440,22 @@ section.main-projects {
     background: $primary_color;
     font-size: 12px;
 }
+
+// BREADCRUMB
+.breadcrumb {
+    background-color: white;
+    margin: 20px 0;
+    .breadcrumb-item {
+        a {
+            color: $primary_color;
+        }
+    }
+}
+
+.ims_single {
+    img {
+        height: 350px;
+        width: 350px;
+        object-fit: cover;
+    }
+}

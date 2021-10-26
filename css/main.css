@@ -623,4 +623,20 @@ section.main-projects {
   background: #88121e;
   font-size: 12px;
 }
+
+.breadcrumb {
+  background-color: white;
+  margin: 20px 0;
+}
+
+.breadcrumb .breadcrumb-item a {
+  color: #88121e;
+}
+
+.ims_single img {
+  height: 350px;
+  width: 350px;
+  -o-object-fit: cover;
+     object-fit: cover;
+}
 /*# sourceMappingURL=main.css.map */
