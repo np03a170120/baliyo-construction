@@ -80,18 +80,19 @@
                                             <a class="nav-link" href="project.php">Project</a>
                                         </li>
                                         <li class="nav-item">
-                                            <a class="nav-link" href="#">contact</a>
+                                            <a class="nav-link" href="contact.php">contact</a>
                                         </li>
 
                                         <li class="nav-item dropdown">
-                                            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink"
-                                                data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                            <span class="nav-link dropdown-toggle cursor_pointer"
+                                                id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true"
+                                                aria-expanded="false">
                                                 Branch
-                                            </a>
+                                            </span>
                                             <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-                                                <a class="dropdown-item" href="#">Action</a>
-                                                <a class="dropdown-item" href="#">Another action</a>
-                                                <a class="dropdown-item" href="#">Something else here</a>
+                                                <a class="dropdown-item" href="branch.php">Maitidevi Branch</a>
+                                                <a class="dropdown-item" href="branch.php">Kailali Branch</a>
+                                                <a class="dropdown-item" href="branch.php">Diktel Branch</a>
                                             </div>
                                         </li>
                                     </ul>

@@ -224,6 +224,8 @@ body p {
 
 .dropdown-item {
   color: white;
+  padding: 0.4rem 1.5rem;
+  text-transform: capitalize;
 }
 
 .dropdown-menu {
@@ -277,6 +279,10 @@ body p {
 
 .vt_play_button:hover a {
   color: #88121e;
+}
+
+.cursor_pointer {
+  cursor: pointer;
 }
 
 .hb_ctc a:hover {
@@ -557,7 +563,6 @@ body p {
 .footer-main {
   padding: 40px 20px;
   background-color: whitesmoke;
-  margin-top: 50px;
 }
 
 .footer-main .location_email {
@@ -708,5 +713,145 @@ section.main-projects {
 
 .opening_card .learn_more {
   margin: 40px 0;
+}
+
+.search_filter {
+  padding: 1rem 0rem;
+}
+
+.search_filter .form-control {
+  border-radius: 0px;
+}
+
+.search_filter button {
+  background: #88121e;
+  color: white;
+  border-radius: 0px;
+}
+
+.search_filter button:hover {
+  border: 2px solid #88121e;
+  background: none;
+  color: #88121e;
+}
+
+.search_filter h6 {
+  text-transform: uppercase;
+  margin-bottom: 10px;
+}
+
+.status {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  padding: 16px 0;
+}
+
+.status form {
+  margin-right: 30px;
+}
+
+.status form select {
+  padding: 10px 20px;
+  border: 2px solid #88121e;
+  color: #88121e;
+  font-size: 12px;
+}
+
+.pcs_image {
+  margin-bottom: 20px;
+}
+
+.pcs_image img {
+  height: 300px;
+  width: 100%;
+}
+
+.project_card_single {
+  background: white;
+  margin-bottom: 20px;
+  border: 2px solid whitesmoke;
+  padding: 10px;
+}
+
+.project_card_single a {
+  color: black;
+}
+
+.project_card_single:hover {
+  -webkit-box-shadow: 4px 5px 12px 0px #dfdddd;
+          box-shadow: 4px 5px 12px 0px #dfdddd;
+}
+
+.pcs_desc .project_status {
+  font-size: 12px;
+  background: #88121e;
+  color: white;
+  padding: 10px 20px;
+}
+
+.pcs_desc h6 {
+  margin-top: 30px;
+  margin-bottom: 10px;
+}
+
+.pcs_desc .project_category {
+  font-size: 14px;
+}
+
+.inner-contact .sec-title h2 {
+  font-size: 28px;
+}
+
+.project_image {
+  margin: 30px 0;
+}
+
+.project_image img {
+  width: 100%;
+  height: auto;
+}
+
+.contact-form .form-control {
+  border-radius: 0;
+  font-size: 15px;
+  padding: 1.375 rem 0.75 rem;
+}
+
+.contact-form .btn {
+  color: white;
+  outline: none;
+  border: 0;
+  border-radius: 0;
+  background: #88121e;
+}
+
+.mf-contact {
+  padding: 20px;
+}
+
+.mf-contact li {
+  margin-bottom: 10px;
+}
+
+.mf-contact li a {
+  color: #88121e;
+}
+
+.mf-contact li a i {
+  margin-right: 10px;
+}
+
+.map {
+  background: whitesmoke;
+  margin-top: 40px;
+  margin-bottom: 0px;
+}
+
+section.main-faqs {
+  margin-bottom: 50px;
 }
 /*# sourceMappingURL=main.css.map */

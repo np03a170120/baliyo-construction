@@ -30,6 +30,8 @@
 
 .dropdown-item {
     color: white;
+    padding: 0.4rem 1.5rem;
+    text-transform: capitalize;
 }
 
 .dropdown-menu {
@@ -98,6 +100,10 @@
             color: $primary_color;
         }
     }
+}
+
+.cursor_pointer {
+    cursor: pointer;
 }
 
 .hb_ctc {
@@ -373,7 +379,6 @@
 .footer-main {
     padding: 40px 20px;
     background-color: whitesmoke;
-    margin-top: 50px;
     .location_email {
         margin: 50px 0;
         li {
@@ -518,4 +523,130 @@ section.main-projects {
     .learn_more {
         margin: 40px 0;
     }
+}
+
+.search_filter {
+    padding: 1rem 0rem;
+    .form-control {
+        border-radius: 0px;
+    }
+    button {
+        background: $primary_color;
+        color: white;
+        border-radius: 0px;
+        &:hover {
+            border: 2px solid $primary_color;
+            background: none;
+            color: $primary_color;
+        }
+    }
+    h6 {
+        text-transform: uppercase;
+        margin-bottom: 10px;
+    }
+}
+
+.status {
+    display: flex;
+    align-items: center;
+    padding: 16px 0;
+    form {
+        margin-right: 30px;
+        select {
+            padding: 10px 20px;
+            border: 2px solid #88121e;
+            color: #88121e;
+            font-size: 12px;
+        }
+    }
+}
+
+.pcs_image {
+    img {
+        height: 300px;
+        width: 100%;
+    }
+    margin-bottom: 20px;
+}
+
+.project_card_single {
+    background: white;
+    margin-bottom: 20px;
+    border: 2px solid whitesmoke;
+    padding: 10px;
+    a {
+        color: black;
+    }
+    &:hover {
+        box-shadow: 4px 5px 12px 0px #dfdddd;
+    }
+}
+
+.pcs_desc {
+    .project_status {
+        font-size: 12px;
+        background: $primary_color;
+        color: white;
+        padding: 10px 20px;
+    }
+    h6 {
+        margin-top: 30px;
+        margin-bottom: 10px;
+    }
+    .project_category {
+        font-size: 14px;
+    }
+}
+
+.inner-contact {
+    .sec-title {
+        h2 {
+            font-size: 28px;
+        }
+    }
+}
+
+.project_image {
+    margin: 30px 0;
+    img {
+        width: 100%;
+        height: auto;
+    }
+}
+
+.contact-form .form-control {
+    border-radius: 0;
+    font-size: 15px;
+    padding: 1.375 rem 0.75 rem;
+}
+
+.contact-form .btn {
+    color: white;
+    outline: none;
+    border: 0;
+    border-radius: 0;
+    background: $primary_color;
+}
+
+.mf-contact {
+    padding: 20px;
+    li {
+        margin-bottom: 10px;
+        a {
+            color: $primary_color;
+            i {
+                margin-right: 10px;
+            }
+        }
+    }
+}
+
+.map {
+    background: whitesmoke;
+    margin-top: 40px;
+    margin-bottom: 0px;
+}
+
+section.main-faqs {
+    margin-bottom: 50px;
 }
